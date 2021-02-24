@@ -1,0 +1,19 @@
+.btn {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 600;
+  text-align: center;
+  padding: 15px 26px 14px;
+  box-shadow: 0 4px 6px rgba(55, 105, 214, 0.4);
+  border-radius: 5px;
+
+  &.btn-blue {
+    background: linear-gradient(261.52deg, #467CE8 -1.34%, #2E63D6 100%);
+    color: #fff;
+  }
+
+  &.btn-white {
+    color: #396FDF;
+    background-color: #fff;
+  }
+}
